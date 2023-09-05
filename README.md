@@ -12,3 +12,4 @@ This is some extra text to try merging stuff together .....
 first commit after previous pull 
 
 and now for the 2nd commit
+adding a third commit and making commit comment
