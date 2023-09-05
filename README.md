@@ -10,3 +10,5 @@ This is some extra text to try merging stuff together .....
 
 ## Adding a couple of commits to see how they squash
 first commit after previous pull 
+
+and now for the 2nd commit
